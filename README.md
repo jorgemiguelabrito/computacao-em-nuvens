@@ -1,4 +1,3 @@
-
 # Computação em Nuvens
 
 |FACULDADE|DEVSFREE ACADEMY|
