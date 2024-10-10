@@ -3,11 +3,11 @@
 
 |FACULDADE|DEVSFREE ACADEMY|
 |----------|----------------|
-|Segurança da informação visão geral: redes, sistemas e aplicações|Gerenciamento e Provisionamento de Recursos|
-|Políticas de segurança da informação e aspectos legais|Arquitetura e Design de Soluções em Nuvem|
-|Ameaça e Vulnerabilidades à Segurança da Informação|Segurança e Compliance|
-|Criptografias|Gerenciamento de Custos e Orçamento|
-|Controle de proteção|Automação e Orquestração|
+|Visão geral dos conceitos de nuvem|Gerenciamento e Provisionamento de Recursos|
+||Arquitetura e Design de Soluções em Nuvem|
+|Economia e faturamento da nuvem|Segurança e Compliance|
+|Visão geral da infraestrutura global da AWS|Gerenciamento de Custos e Orçamento|
+|Segurança na Nuvem AWS|Automação e Orquestração|
 |ABC|Desenvolvimento e Integração de Aplicações|
 |ABC|Monitoramento e Gestão de Desempenho|
 |ABC|Backup e Recuperação de Desastres|
