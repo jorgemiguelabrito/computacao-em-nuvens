@@ -4,10 +4,10 @@
 |FACULDADE|DEVSFREE ACADEMY|
 |----------|----------------|
 |Visão geral dos conceitos de nuvem|Gerenciamento e Provisionamento de Recursos|
-||Arquitetura e Design de Soluções em Nuvem|
-|Economia e faturamento da nuvem|Segurança e Compliance|
-|Visão geral da infraestrutura global da AWS|Gerenciamento de Custos e Orçamento|
-|Segurança na Nuvem AWS|Automação e Orquestração|
+|Economia e faturamento da nuvem|Arquitetura e Design de Soluções em Nuvem|
+|Visão geral da infraestrutura global da AWS|Segurança e Compliance|
+|Segurança na Nuvem AWS|Gerenciamento de Custos e Orçamento|
+|ABC|Automação e Orquestração|
 |ABC|Desenvolvimento e Integração de Aplicações|
 |ABC|Monitoramento e Gestão de Desempenho|
 |ABC|Backup e Recuperação de Desastres|
