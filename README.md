@@ -3,11 +3,11 @@
 
 |FACULDADE|DEVSFREE ACADEMY|
 |----------|----------------|
-|ABC|Gerenciamento e Provisionamento de Recursos|
-|ABC|Arquitetura e Design de Soluções em Nuvem|
-|ABC|Segurança e Compliance|
-|ABC|Gerenciamento de Custos e Orçamento|
-|ABC|Automação e Orquestração|
+|Segurança da informação visão geral: redes, sistemas e aplicações|Gerenciamento e Provisionamento de Recursos|
+|Políticas de segurança da informação e aspectos legais|Arquitetura e Design de Soluções em Nuvem|
+|Ameaça e Vulnerabilidades à Segurança da Informação|Segurança e Compliance|
+|Criptografias|Gerenciamento de Custos e Orçamento|
+|Controle de proteção|Automação e Orquestração|
 |ABC|Desenvolvimento e Integração de Aplicações|
 |ABC|Monitoramento e Gestão de Desempenho|
 |ABC|Backup e Recuperação de Desastres|
